@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Back-End-Para.iml" filepath="$PROJECT_DIR$/.idea/Back-End-Para.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bac-kEnd_Para/Parapharmcie.iml" filepath="$PROJECT_DIR$/Bac-kEnd_Para/Parapharmcie.iml" />
+    </modules>
+  </component>
+</project>
