@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Parapharmcie" target="11" />
+      <module name="Parapharmcie" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
